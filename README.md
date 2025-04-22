@@ -4,7 +4,7 @@
 
 Meu nome é Gabriel Souza, sou estudante de Engenharia de Controle e Automação .
 
-Ao longo da minha graduação, sempre me preocupei em me envolver em atividades extracurriculares para complementar minha formação, participando de eventos, como o encontro nacional da automação, e fazendo cursos, na área de reparo de micros, na Alpha e de html pela Udemy.
+Ao longo da minha graduação, sempre me preocupei em me envolver em atividades extracurriculares para complementar minha formação, desenvolvendo api's e firmwares.
 
 Até breve!
 
